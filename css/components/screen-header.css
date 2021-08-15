@@ -31,7 +31,7 @@
     transform: none;
   }
   to {
-    transform: rotateZ(360deg) ro;
+    transform: rotateZ(360deg);
   }
 }
 .screen-header__icons:hover .fa-cog {
